@@ -1,10 +1,10 @@
 site_name: Thomas Yang - Cloud Pak for Business Automation
-#site_url: https://thomasyang44.github.io/sko-tech-academy
+#site_url: https://thomasyang44.github.io/cp4ba
 site_author: Gerry Baird, Thomas Yang
 
 # Repository
-repo_name: sko-tech-academy
-repo_url: https://github.com/thomasyang44/sko-tech-academy
+repo_name: cp4ba
+repo_url: https://github.com/thomasyang44/cp4ba
 docs_dir: docs
 site_dir: public
 edit_uri: edit/master/docs
